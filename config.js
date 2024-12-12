@@ -1,23 +1,23 @@
 module.exports = {
-  TOKEN: "",
-  MONGO_CONNECTION: "",
-  ERROR_LOGS: "",
-  BOT_SECRET: "",
+  TOKEN: "MTMxNjc4NzMzNjkzNTI0Nzg3Mg.Gehzyb.S9LrvS_HMOSvJAlj5XRCkmtkoTkExLSzq0JOzs",
+  MONGO_CONNECTION: "mongodb+srv://arjunn:premiumop123@cluster0.dpw1dmi.mongodb.net/?retryWrites=true&w=majority",
+  ERROR_LOGS: "1163922321833218068",
+  BOT_SECRET: "LAXH3KkcxbldjVA_Lb7nEDch9JuiYAmr",
   SPOTIFY_CLIENT_ID: "e6f84fbec2b44a77bf35a20c5ffa54b8",
   SPOTIFY_CLIENT_SECRET: "498f461b962443cfaf9539c610e2ea81",
   WEATHERSTACK_KEY: "3b7f1925de1b9d9a1dc2c13d1ec07d76",
   STRANGE_API_KEY: "NjNhMWJkYjQwYTBiY2Y5OTUxMDg2NjJh.sJ5stiu6TfhmvuXNfvnNOpqKDnuv5TukVQyoyWF20",
-  OWNER_IDS: ["1092374628556615690"], // Bot owner ID's
-  SUPPORT_SERVER: "https://discord.gg/snoww", // Your bot support server
+  OWNER_IDS: ["723119725483393054"], // Bot owner ID's
+  SUPPORT_SERVER: "https://discord.gg/gn4PD9Mmgx", // Your bot support server
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
-    DEFAULT_PREFIX: "-", // Default prefix for the bot
+    DEFAULT_PREFIX: "!", // Default prefix for the bot
   },
   INTERACTIONS: {
     SLASH: true, // Should the interactions be enabled
     CONTEXT: true, // Should contexts be enabled
     GLOBAL: false, // Should the interactions be registered globally
-    TEST_GUILD_ID: "1280924204459364435", // Guild ID where the interactions should be registered. [** Test your commands here first **]
+    TEST_GUILD_ID: "1308363372907069460", // Guild ID where the interactions should be registered. [** Test your commands here first **]
   },
   EMBED_COLORS: {
     BOT_EMBED: "#068ADD",
